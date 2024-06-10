@@ -96,8 +96,8 @@ def get_trending_tracks(client_id, client_secret, country='US', limit=7):
         return []
 
 # Example usage:
-client_id = '0743934039bb45d88f5e134fa081375c'
-client_secret = 'c46241df84914c92aec3750c37c1d20e'
+client_id = '#####'
+client_secret = '#####'
 # trending_tracks = get_trending_tracks(client_id, client_secret)
 
 # for index, track in enumerate(trending_tracks, start=1):
