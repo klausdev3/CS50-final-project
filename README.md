@@ -9,4 +9,5 @@ API Integration: Spotipy (Spotify Web API)
 Security: Werkzeug for password hashing
 Frontend: HTML templates (Jinja2)
 Hosting: AWS Elastic Beanstalk
+
 The application is hosted on AWS Elastic Beanstalk, providing a scalable and reliable platform for deployment. This allows for easy management and scaling of the web application.
